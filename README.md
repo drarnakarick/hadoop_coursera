@@ -1,2 +1,4 @@
-# hadoop_coursera
-My notes from the the Hadoop Platform and Applications course
+# Learning Hadoop – Platform and Applications
+
+Repository containing notes from Coursera's [Hadoop Platform and Applications](https://www.coursera.org/learn/hadoop/)
+
