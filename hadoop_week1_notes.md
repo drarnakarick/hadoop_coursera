@@ -1,4 +1,4 @@
-## My Week 1 – Lesson 1  Notes: ##
+## My Week 1 – Lesson 1 notes: ##
 
 ### Hadoop Stack Basics: ###
 
@@ -68,19 +68,23 @@ You can run existing MapReduce applications (e.g. from Hadoop 1.0) on YARN.
 5. Oozie: ith a worksflow schedule system that manages all the Apache Hadoop jobs.
 6. Flume (not the singer): a distributed service for aggregating and move large datasets.
 
-* Additional components: *
+### Additional components:###
 
 1.  Impala: designed specifically for Cloudera. It’s a query engine that runds on top of Apache Hadoop.
 2. Spark: a scalable data analytics platform that uses in memory computing – great for supporting machine learning as data can be loaded into the clusters memory and quereyed repeatadly. Spark can interface with HDSF and  Amazon S3
 
-Resources:
+
+#### Quiz #1  ####
+Basic Hadoop Stack: 9/10 right. Messed up the question about MapReduce layers. Need to go back and read up about this again.
+
+## Useful Resources: ##
 
 Apache Hadoop website:  https://hadoop.apache.org/
 An article that nicely explains the various Hadoop components: http://dataconomy.com/hadoop-components-need-know/
 
 
-Lesson 2: Hands-On Exploration of the Cloudier VM
+# My Week 1 – Lesson 2 notes: Hands-On Exploration of the Cloudier VM ##
 
-Quiz #1 Basic Hadoop Stack: 9/10 right.
+
 
 
