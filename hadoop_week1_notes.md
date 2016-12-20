@@ -1,6 +1,6 @@
-## My Week 1 – Lesson 1 notes: ##
+## My Week 1 – Lesson 1 notes: 
 
-### Hadoop Stack Basics: ###
+### Hadoop Stack Basics: 
 
 * How does a Hadoop stack work?
 * What is the architecture for the framework?
@@ -83,8 +83,11 @@ Apache Hadoop website:  https://hadoop.apache.org/
 An article that nicely explains the various Hadoop components: http://dataconomy.com/hadoop-components-need-know/
 
 
-# My Week 1 – Lesson 2 notes: Hands-On Exploration of the Cloudier VM ##
+## My Week 1 – Lesson 2 notes: 
 
+### Hands-On Exploration of the Cloudier VM 
+
+Mostly interactive. See course materials.
 
 
 
