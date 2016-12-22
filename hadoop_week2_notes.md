@@ -36,3 +36,8 @@ YARN is the next-gen mapreduce. The MapReduce processing from Hadoop 1.0 has bee
 Apache Tez provides a developer API and framework to write native YARN applications that bridge the spectrum of interactive and batch workloads. It allows those data access applications to work with petabytes of data over thousands nodes. The Apache Tez component library allows developers to create Hadoop applications that integrate natively with Apache Hadoop YARN and perform well within mixed workload clusters. In this context Apache Tez is run in conjunction (not independentlly) of YARN.
 
 Overview of Apache Tez: http://hortonworks.com/apache/tez/
+
+## My Week 2 – Lesson 2 notes:
+
+
+
